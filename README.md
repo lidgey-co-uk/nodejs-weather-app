@@ -3,5 +3,6 @@ Based on https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16
 
 # npm to install
 
-npm install request --save
-npm install yargs --save
+`npm install request --save`
+
+`npm install yargs --save`
