@@ -8,7 +8,7 @@ Based on https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16
 Argument | Meaning
 -------- | -------------
 c        | City name to show weather forecast for
-a .      | API Key from https://home.openweathermap.org/api_keys
+a        | API Key from https://home.openweathermap.org/api_keys
 
 # npm to install
 
