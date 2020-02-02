@@ -16,6 +16,8 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
+    npm install request --save
+    npm install yargs --save
     npm install
     npm run build
   displayName: 'npm install and build'
